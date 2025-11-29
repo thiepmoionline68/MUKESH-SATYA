@@ -531,7 +531,7 @@ body {
 .banner-date {
     font-size: 20px;
     margin-top: 40px;
-    display: flex;
+    
     align-items: center;
     gap: 12px;
 }
